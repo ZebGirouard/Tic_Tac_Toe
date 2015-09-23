@@ -1,0 +1,11 @@
+.well {
+  background-color: black;
+  height: 200px;
+  margin: 0 auto;
+  color: white;
+  font-size: 48px;
+}
+h1 {
+  font-family: Lobster;
+  font-size: 48px;
+}
